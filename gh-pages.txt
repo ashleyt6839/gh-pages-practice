@@ -1,0 +1,5 @@
+Step 1: Fork and Clone
+Step 2: make a new branch git branch gh-pages
+Step 3: Open .git/config
+Step 4:type c9 .git/config
+Step 5: Add two lines in the [remote “origin”] section
